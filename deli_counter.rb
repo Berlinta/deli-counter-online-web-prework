@@ -26,3 +26,4 @@ end
 
 deli = []
 take_a_number(deli, 'Bob')
+take_a_number(deli, 'Sally')
