@@ -25,6 +25,6 @@ end
 end
 
 deli = []
-take_a_number(deli, 'Bob')
-take_a_number(deli, 'Sally')
-#Welcome Sally, you are number 1 in line. 
+now_serving(deli)
+#take_a_number(deli, 'Bob')
+#take_a_number(deli, 'Sally')
