@@ -24,10 +24,10 @@ end
   end
 end
 
-deli = []
-take_a_number(deli, 'Bob')
-now_serving(deli)
-take_a_number(deli, 'Sally')
+whatever = []
+take_a_number(whatever, 'Bob')
+now_serving(whatever)
+take_a_number(whatever, 'Sally')
 
 #Welcome Bob you are number 1 in line
 #Currently serving Bob
