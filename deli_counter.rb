@@ -32,5 +32,4 @@ take_a_number(whatever, 'Sally')
 
 #Welcome Bob you are number 1 in line
 #Currently serving Bob
-#There is nobody waiting to be served
 #Welcome Sally you are number 1 in line
