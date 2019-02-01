@@ -23,3 +23,6 @@ end
     deli.shift
   end
 end
+
+deli = []
+take_a_number(deli, 'Bob')
